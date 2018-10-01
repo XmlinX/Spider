@@ -1,0 +1,2 @@
+create table douban_data (id TINYINT NOT NULL primary key ,b_name VARCHAR(20)NOT NULL,b_author VARCHAR(10) NOT NULL,b_score DECIMAL(2,1) NULL,
+au_country VARCHAR(10) NOT NULL,b_imgurl  text NOT NULL,b_pubtime DATE NULL,b_pubhouse VARCHAR(20) NOT NULL); 

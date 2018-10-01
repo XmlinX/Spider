@@ -1,0 +1,42 @@
+/html[@class='ua-mac ua-webkit book-new-nav']
+/body/div[@id='wrapper']/div[@id='content']
+/div[@class='grid-12-12 clearfix']
+/div[@class='article']
+/ul[@class='cover-col-4 clearfix']
+/li[1]/div[@class='detail-frame']/h2/a
+
+
+
+/html[@class='ua-mac ua-webkit book-new-nav']
+/body/div[@id='wrapper']/div[@id='content']
+/div[@class='grid-12-12 clearfix']
+/div[@class='article']
+/ul[@class='cover-col-4 clearfix']
+/li[2]/div[@class='detail-frame']/h2/a
+
+
+/html[@class='ua-mac ua-webkit book-new-nav']
+/body/div[@id='wrapper']/div[@id='content']
+/div[@class='grid-12-12 clearfix']
+/div[@class='aside']
+/ul[@class='cover-col-4 pl20 clearfix']
+/li[1]/div[@class='detail-frame']/h2/a
+
+
+/html[@class='ua-mac ua-webkit book-new-nav']
+/body/div[@id='wrapper']/div[@id='content']
+/div[@class='grid-12-12 clearfix']
+/div[@class='aside']
+/ul[@class='cover-col-4 pl20 clearfix']
+/li[2]/div[@class='detail-frame']/h2/a
+
+
+/html[@class='ua-mac ua-webkit book-new-nav']/body/div[@id='wrapper']/div[@id='content']/div[@class='grid-12-12 clearfix']/div[@class='article']/ul[@class='cover-col-4 clearfix']/li[1]/div[@class='detail-frame']/p[@class='rating']/span[@class='font-small  color-lightgray']
+
+/html[@class='ua-mac ua-webkit book-new-nav']/body/div[@id='wrapper']/div[@id='content']/div[@class='grid-12-12 clearfix']/div[@class='aside']/ul[@class='cover-col-4 pl20 clearfix']/li[1]/div[@class='detail-frame']/p[@class='rating']/span[@class='font-small color-lightgray']
+
+
+/html[@class='ua-mac ua-webkit book-new-nav']/body/div[@id='wrapper']/div[@id='content']/div[@class='grid-12-12 clearfix']/div[@class='article']/ul[@class='cover-col-4 clearfix']/li[2]/div[@class='detail-frame']/p[@class='rating']/span[@class='font-small color-lightgray']
+
+
+/html[@class='ua-mac ua-webkit book-new-nav']/body/div[@id='wrapper']/div[@id='content']/div[@class='grid-12-12 clearfix']/div[@class='aside']/ul[@class='cover-col-4 pl20 clearfix']/li[1]/div[@class='detail-frame']/p[@class='rating']/span[@class='font-small color-lightgray']
