@@ -40,10 +40,10 @@ for i in scores:
     b_score_all.append(score)   
 b_detail = soup.find_all('p',class_='color-gray')
 b_url_all = pattern.findall(html)
-db = pymysql.connect(host='192.168.0.100',
+db = pymysql.connect(host='ip',
                     port=3306,
                     user='root',
-                    passwd='xml@195468',
+                    passwd='',
                     db='my_collections',
                     charset='utf8')
 cur = db.cursor()
